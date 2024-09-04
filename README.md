@@ -10,5 +10,7 @@ Jen pro cvičné účely
 3. další
 
 '''js
+
 alert()
+
 '''
