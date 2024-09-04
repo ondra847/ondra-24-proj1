@@ -1,6 +1,6 @@
 
 # První gitHub projekt 
-##Podnapis
+## Podnapis
 Jen pro cvičné účely
 
 '''js
