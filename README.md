@@ -9,8 +9,8 @@ Jen pro cvičné účely
 2. další
 3. další
 
-'''js
+´´´js
 
 alert()
 
-'''
+´´´
